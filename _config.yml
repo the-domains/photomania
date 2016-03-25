@@ -1,0 +1,28 @@
+name: Photomania
+favicon: null
+layout_spectrum: 0.8479491886682808
+typography_spectrum: 0.6011038685683161
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8765671218279749
+  lightness: 0.4772018219809979
+  saturation: 0.9427938470616937
+  rhythmicContrast: 0.446398938074708
+purpose: []
